@@ -1,0 +1,10 @@
+NOMBRE: registro de clientes y rutas “Alfa y Omega”
+
+Tecnologias empleadas: C# Y SQL 
+
+DESCRIPCION: Plataforma de escritorio que permite a los usuarios el 
+ingreso de clientes, equipos y rutas para optimizar el proceso de registro
+de rutas a través de la búsqueda de clientes por telefono o nombre permitiendo tiempos
+de respuesta más cortos y eficientes.
+
+AÑO: 2018
